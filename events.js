@@ -22,6 +22,7 @@ client.once('ready', async () => {
 });
 
 client.on('interactionCreate', async interaction => {
+  console.log('[DEBUG] Interaction received:', interaction.type, interaction.commandName || interaction.customId);
   console.log('[DEBUG] Interaction:', interaction.type, interaction.commandName || interaction.customId);
   try {
     // BUTTON
