@@ -1,0 +1,8 @@
+{
+  "name": "creatorstier",
+  "version": "1.0.0",
+  "main": "start.js",
+  "scripts": { "start": "node start.js" },
+  "engines": { "node": ">=20.0.0" },
+  "dependencies": { "discord.js": "^14.16.3" }
+}
