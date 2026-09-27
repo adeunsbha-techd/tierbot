@@ -3,7 +3,7 @@ const { client, CONFIG } = require('./bot.js');
 const { commands } = require('./commands.js');
 const H = require('./handlers.js');
 
-client.once('clientReady', async () => {
+client.once('ready', async () => {
   console.log(`✅ Bot online: ${client.user.tag}`);
   console.log(`📡 Guilds: ${client.guilds.cache.size}`);
 
