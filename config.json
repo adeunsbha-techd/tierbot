@@ -1,7 +1,7 @@
 {
-  "token": "USE_ENV_TOKEN",
-  "clientId": "USE_ENV_CLIENTID",
-  "guildId": "USE_ENV_GUILDID",
+  "token": "MTU1MzA1MzU4ODQyNTgwMTc5OA.GNx9AR.CJtW17d-3gLdiDZyjeC_XRZsP1ydrRLkWNSkr0",
+  "clientId": "1553053588425801798",
+  "guildId": "1553013200453374034",
   "channels": {
     "queue": "queue",
     "result": "result",
@@ -12,16 +12,11 @@
   },
   "tiers": ["HT1","LT1","HT2","LT2","HT3","LT3","HT4","LT4","HT5","LT5","Retired"],
   "tierColors": {
-    "HT1": "RED",
-    "LT1": "DARK_RED",
-    "HT2": "ORANGE",
-    "LT2": "DARK_ORANGE",
-    "HT3": "YELLOW",
-    "LT3": "GOLD",
-    "HT4": "GREEN",
-    "LT4": "DARK_GREEN",
-    "HT5": "AQUA",
-    "LT5": "BLUE",
+    "HT1": "RED", "LT1": "DARK_RED",
+    "HT2": "ORANGE", "LT2": "DARK_ORANGE",
+    "HT3": "YELLOW", "LT3": "GOLD",
+    "HT4": "GREEN", "LT4": "DARK_GREEN",
+    "HT5": "AQUA", "LT5": "BLUE",
     "Retired": "PURPLE"
   },
   "gamemodes": ["Sword","Netherite Pot","Vanilla PvP","UHC","Mace","Diamond SMP","Axe","Pot","Crystal"],
